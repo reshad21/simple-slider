@@ -1,0 +1,13 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    /* background-color: rgb(85, 85, 85); */
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container img{
+    height: 600px;
+    object-fit: cover;
+}
